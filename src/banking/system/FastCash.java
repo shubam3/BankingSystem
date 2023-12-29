@@ -11,6 +11,7 @@ public class FastCash extends JFrame implements ActionListener {
 
     JButton b1,b2,b3,b4,b5,b6,b7;
     String pin;
+    String Npin;
 
     FastCash(String pin){
 
